@@ -28,8 +28,6 @@ python waybackurls.py -d example.com -o urls.txt
 | `-o/--output`   | Save results to specified file               | `-o urls.txt`                    |
 | `--delay`       | Delay between requests (seconds, default: 1) | `--delay 2`                      |
 
-### Example Output
-![Progress Bar Demo](https://via.placeholder.com/600x50?text=Scanning+example.com:+100%25+%7C██████████%7C+50/50+%5B00:52<%5D)
 
 ### Common Use Cases
 
